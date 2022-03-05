@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(186, 223, 220);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ava{
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(rgb(0, 0, 0));
+}
+
+.info p{
+    color: #86898f;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+}
