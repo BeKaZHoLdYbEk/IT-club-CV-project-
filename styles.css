@@ -5,15 +5,30 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+
 .ava{
     width: 100px;
     border-radius: 20px;
     box-shadow: 4px 4px 14px rgba(rgb(0, 0, 0));
 }
 
+
 .info p{
     color: #86898f;
     margin: 0;
     font-style: italic;
     font-weight: bold;
+    text-decoration:none;
+    /*text-transform: none;*/
+    letter-spacing: 2px;
+}
+
+.socials{
+    background: rgb(43, 197, 182);
+}
+
+.container{
+    max-width: 750px;
+    margin: auto;
+    
 }
